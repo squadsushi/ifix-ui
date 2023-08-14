@@ -1,0 +1,190 @@
+{
+  "Header": {
+    "title": "IFIX",
+    "paragraph": "Dịch vụ sửa chữa, bảo dưỡng chuyên nghiệp - nhanh chóng- uy tín - trách nhiệm - chi phí thấp"
+  },
+  "About": {
+    "paragraph": "Với đội ngũ kỹ sư chuyên ngành điện tử có nhiều năm kinh nghiệm trong công tác bảo dưỡng và sửa chữa các thiết bị vô tuyến điện tử nói chung và các thiết bị trong lĩnh vực đo lường, thử nghiệm; các thiết bị công nghiệp; thiết bị mạng viễn thông nói riêng cùng hệ thống các trang thiết bị, máy móc hiện đại có độ ổn định và tin cậy cao.",
+    "Why": [
+      "Chuyên nghiệp",
+      "Nhanh chóng",
+      "Uy tín"
+    ],
+    "Why2": [
+      "Trách nhiệm",
+      "Chi phí thấp"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Máy phát tín hiệu",
+      "largeImage": "img/devicetypes/may_phat_tin_hieu.jpg",
+      "smallImage": "img/devicetypes/may_phat_tin_hieu.jpg"
+    },
+    {
+      "title": "Máy thu",
+      "largeImage": "img/devicetypes/may_thu.jpg",
+      "smallImage": "img/devicetypes/may_thu.jpg"
+    },
+    {
+      "title": "Osilocope",
+      "largeImage": "img/devicetypes/osilocope.jpg",
+      "smallImage": "img/devicetypes/osilocope.jpg"
+    },
+    {
+      "title": "Máy phân tích mạng",
+      "largeImage": "img/devicetypes/phan_tich_mang.jpg",
+      "smallImage": "img/devicetypes/phan_tich_mang.jpg"
+    },
+    {
+      "title": "Máy phân tích phổ",
+      "largeImage": "img/devicetypes/phan_tich_pho.jpg",
+      "smallImage": "img/devicetypes/phan_tich_pho.jpg"
+    },
+    {
+      "title": "Máy phân tích phổ cầm tay",
+      "largeImage": "img/devicetypes/phan_tich_pho_cam_tay.jpg",
+      "smallImage": "img/devicetypes/phan_tich_pho_cam_tay.jpg"
+    }
+  ],
+  "PowerBank": [
+    {
+      "title": "Bộ nguồn E3634A",
+      "largeImage": "img/fixeddevices/powerbank/01_nguon_e3634a.png",
+      "smallImage": "img/fixeddevices/powerbank/01_nguon_e3634a.png"
+    },
+    {
+      "title": "Bộ nguồn công suất cao",
+      "largeImage": "img/fixeddevices/powerbank/02_nguon_cong_suat_cao.png",
+      "smallImage": "img/fixeddevices/powerbank/02_nguon_cong_suat_cao.png"
+    },
+    {
+      "title": "Bộ nguồn máy M9037A",
+      "largeImage": "img/fixeddevices/powerbank/03_nguon_may_m9037a.JPG",
+      "smallImage": "img/fixeddevices/powerbank/03_nguon_may_m9037a.JPG"
+    },
+    {
+      "title": "Bộ nguồn máy phát N5181A",
+      "largeImage": "img/fixeddevices/powerbank/04_nguon_may_phat_n5181a.png",
+      "smallImage": "img/fixeddevices/powerbank/04_nguon_may_phat_n5181a.png"
+    }
+  ],
+  "LCR": [
+    {
+      "title": "Đồng hồ đo E4980A",
+      "largeImage": "img/fixeddevices/lcr/03_e4980a.png",
+      "smallImage": "img/fixeddevices/lcr/03_e4980a.png"
+    },
+    {
+      "title": "Đồng hồ đo 34461A",
+      "largeImage": "img/fixeddevices/lcr/02_34461A.png",
+      "smallImage": "img/fixeddevices/lcr/02_34461A.png"
+    },
+    {
+      "title": "Đồng hồ đo 2410",
+      "largeImage": "img/fixeddevices/lcr/01_2410.png",
+      "smallImage": "img/fixeddevices/lcr/01_2410.png"
+    },
+    {
+      "title": "Đồng hồ đo IM3570",
+      "largeImage": "img/fixeddevices/lcr/04_im3570.JPG",
+      "smallImage": "img/fixeddevices/lcr/04_im3570.JPG"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Sửa chữa thiết bị",
+      "text": "20 năm kinh nghiệm trong công tác sửa chữa các thiết bị vô tuyến điện tử nói chung và các thiết bị trong lĩnh vực đo lường, thử nghiệm; các thiết bị công nghiệp; thiết bị mạng viễn thông nói riêng cùng hệ thống các trang thiết bị, máy móc hiện đại có độ ổn định và tin cậy cao."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Bảo dưỡng thiết bị",
+      "text": "20 năm kinh nghiệm trong công tác bảo dưỡng các thiết bị vô tuyến điện tử nói chung và các thiết bị trong lĩnh vực đo lường, thử nghiệm; các thiết bị công nghiệp; thiết bị mạng viễn thông nói riêng cùng hệ thống các trang thiết bị, máy móc hiện đại có độ ổn định và tin cậy cao."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Phát triển phần mềm",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Phòng 201, số nhà 25, ngõ 120, đường Trần Duy Hưng, quận Cầu giấy, thành phố Hà Nội",
+    "phone": "+84 901 505 637",
+    "email": "ifix.limited.company@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Các thiết bị đo lường, thử nghiệm",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Các thiết bị công nghiệp",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Các thiết bị mạng viễn thông",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
