@@ -33,6 +33,11 @@ const App = () => {
       <Gallery data={landingPageData.Gallery} name="Các chủng loại thiết bị đo lường" />
       <Gallery data={landingPageData.PowerBank} name="Sửa chữa các bộ nguồn" />
       <Gallery data={landingPageData.LCR} name="Sửa chữa LCR - đồng hồ đo" />
+      <Gallery data={landingPageData.NetworkAnalysis} name="Máy phân tích mạng" />
+      <Gallery data={landingPageData.SpectralAnalysis} name="Máy phân tích phổ" />
+      <Gallery data={landingPageData.SignalGenerator} name="Máy phát tín hiệu" />
+      <Gallery data={landingPageData.VectorSignalGenerator} name="Máy phát tín hiệu vector" />
+      <Gallery data={landingPageData.PowerSensor} name="Power sensor" />
       {/*<Testimonials data={landingPageData.Testimonials} />*/}
       {/*<Team data={landingPageData.Team} />*/}
       <Contact data={landingPageData.Contact} />

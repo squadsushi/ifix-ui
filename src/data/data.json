@@ -91,21 +91,176 @@
       "smallImage": "img/fixeddevices/lcr/04_im3570.JPG"
     }
   ],
+  "NetworkAnalysis": [
+    {
+      "title": "Máy phân tích mạng E5071C",
+      "largeImage": "img/fixeddevices/networkanalysis/01.JPG",
+      "smallImage": "img/fixeddevices/networkanalysis/01.JPG"
+    },
+    {
+      "title": "Máy phân tích mạng E5071C",
+      "largeImage": "img/fixeddevices/networkanalysis/02.png",
+      "smallImage": "img/fixeddevices/networkanalysis/02.png"
+    },
+    {
+      "title": "Máy phân tích mạng E5071C",
+      "largeImage": "img/fixeddevices/networkanalysis/03.png",
+      "smallImage": "img/fixeddevices/networkanalysis/03.png"
+    }
+  ],
+  "SpectralAnalysis": [
+    {
+      "title": "Máy phân tích phổ E4404B",
+      "largeImage": "img/fixeddevices/spectralanalysis/e4404b.JPG",
+      "smallImage": "img/fixeddevices/spectralanalysis/e4404b.JPG"
+    },
+    {
+      "title": "Máy phân tích phổ FPS6",
+      "largeImage": "img/fixeddevices/spectralanalysis/fps6.png",
+      "smallImage": "img/fixeddevices/spectralanalysis/fps6.png"
+    },
+    {
+      "title": "Máy phân tích phổ FSH20",
+      "largeImage": "img/fixeddevices/spectralanalysis/fsh20_2.png",
+      "smallImage": "img/fixeddevices/spectralanalysis/fsh20_2.png"
+    },
+    {
+      "title": "Máy phân tích phổ FSH20",
+      "largeImage": "img/fixeddevices/spectralanalysis/fsh20_1.jpg",
+      "smallImage": "img/fixeddevices/spectralanalysis/fsh20_1.jpg"
+    },
+    {
+      "title": "Máy phân tích phổ N9320B",
+      "largeImage": "img/fixeddevices/spectralanalysis/N9320B_1.png",
+      "smallImage": "img/fixeddevices/spectralanalysis/N9320B_1.png"
+    },
+    {
+      "title": "Máy phân tích phổ N9320B",
+      "largeImage": "img/fixeddevices/spectralanalysis/N9320B_2.png",
+      "smallImage": "img/fixeddevices/spectralanalysis/N9320B_2.png"
+    },
+    {
+      "title": "Máy phân tích phổ N9320B",
+      "largeImage": "img/fixeddevices/spectralanalysis/N9320B_3.JPG",
+      "smallImage": "img/fixeddevices/spectralanalysis/N9320B_3.JPG"
+    },
+    {
+      "title": "Máy phân tích phổ N9320B",
+      "largeImage": "img/fixeddevices/spectralanalysis/N9320B_4.JPG",
+      "smallImage": "img/fixeddevices/spectralanalysis/N9320B_4.JPG"
+    }
+  ],
+  "SignalGenerator": [
+    {
+      "title": "Máy phát tín hiệu 33210A",
+      "largeImage": "img/fixeddevices/signalgenerator/33210A.png",
+      "smallImage": "img/fixeddevices/signalgenerator/33210A.png"
+    },
+    {
+      "title": "Máy phát tín hiệu N5173B",
+      "largeImage": "img/fixeddevices/signalgenerator/N5173B_1.JPG",
+      "smallImage": "img/fixeddevices/signalgenerator/N5173B_1.JPG"
+    },
+    {
+      "title": "Máy phát tín hiệu N5173B",
+      "largeImage": "img/fixeddevices/signalgenerator/N5173B_2.JPG",
+      "smallImage": "img/fixeddevices/signalgenerator/N5173B_2.JPG"
+    },
+    {
+      "title": "Máy phát tín hiệu N5181A",
+      "largeImage": "img/fixeddevices/signalgenerator/N5181A_1.png",
+      "smallImage": "img/fixeddevices/signalgenerator/N5181A_1.png"
+    },
+    {
+      "title": "Máy phát tín hiệu N5181A",
+      "largeImage": "img/fixeddevices/signalgenerator/N5181A_2.JPG",
+      "smallImage": "img/fixeddevices/signalgenerator/N5181A_2.JPG"
+    },
+    {
+      "title": "Máy phát tín hiệu N5181A",
+      "largeImage": "img/fixeddevices/signalgenerator/N5181A_3.JPG",
+      "smallImage": "img/fixeddevices/signalgenerator/N5181A_3.JPG"
+    },
+    {
+      "title": "Máy phát tín hiệu N5181B",
+      "largeImage": "img/fixeddevices/signalgenerator/N5181B_1.png",
+      "smallImage": "img/fixeddevices/signalgenerator/N5181B_1.png"
+    },
+    {
+      "title": "Máy phát tín hiệu N5181B",
+      "largeImage": "img/fixeddevices/signalgenerator/N5181B_2.jpg",
+      "smallImage": "img/fixeddevices/signalgenerator/N5181B_2.jpg"
+    },
+    {
+      "title": "Máy phát tín hiệu SGT100A",
+      "largeImage": "img/fixeddevices/signalgenerator/SGT100A.jpg",
+      "smallImage": "img/fixeddevices/signalgenerator/SGT100A.jpg"
+    },
+    {
+      "title": "Máy phát tín hiệu SMB100A",
+      "largeImage": "img/fixeddevices/signalgenerator/SMB100A_1.JPG",
+      "smallImage": "img/fixeddevices/signalgenerator/SMB100A_1.JPG"
+    },
+    {
+      "title": "Máy phát tín hiệu SMB100A",
+      "largeImage": "img/fixeddevices/signalgenerator/SMB100A_2.JPG",
+      "smallImage": "img/fixeddevices/signalgenerator/SMB100A_2.JPG"
+    },
+    {
+      "title": "Máy phát tín hiệu SMB100A",
+      "largeImage": "img/fixeddevices/signalgenerator/SMB100A_3.JPG",
+      "smallImage": "img/fixeddevices/signalgenerator/SMB100A_3.JPG"
+    },
+    {
+      "title": "Máy phát tín hiệu SMB100A",
+      "largeImage": "img/fixeddevices/signalgenerator/SMB100A_4.JPG",
+      "smallImage": "img/fixeddevices/signalgenerator/SMB100A_4.JPG"
+    }
+  ],
+  "VectorSignalGenerator": [
+    {
+      "title": "VXT PXI Vector transceiver MS9000A",
+      "largeImage": "img/fixeddevices/vectorsignalgeneraltor/1.jpg",
+      "smallImage": "img/fixeddevices/vectorsignalgeneraltor/1.jpg"
+    },
+    {
+      "title": "VXT PXI Vector transceiver MS9000A",
+      "largeImage": "img/fixeddevices/vectorsignalgeneraltor/2.jpg",
+      "smallImage": "img/fixeddevices/vectorsignalgeneraltor/2.jpg"
+    },
+    {
+      "title": "VXT PXI Vector transceiver MS9000A",
+      "largeImage": "img/fixeddevices/vectorsignalgeneraltor/3.png",
+      "smallImage": "img/fixeddevices/vectorsignalgeneraltor/3.png"
+    }
+  ],
+  "PowerSensor": [
+    {
+      "title": "Power sensor",
+      "largeImage": "img/fixeddevices/powersensor/PowerSensor2.JPG",
+      "smallImage": "img/fixeddevices/powersensor/PowerSensor2.JPG"
+    },
+    {
+      "title": "Power sensor",
+      "largeImage": "img/fixeddevices/powersensor/PowerSensor1.JPG",
+      "smallImage": "img/fixeddevices/powersensor/PowerSensor1.JPG"
+    }
+  ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-cog",
       "name": "Sửa chữa thiết bị",
       "text": "20 năm kinh nghiệm trong công tác sửa chữa các thiết bị vô tuyến điện tử nói chung và các thiết bị trong lĩnh vực đo lường, thử nghiệm; các thiết bị công nghiệp; thiết bị mạng viễn thông nói riêng cùng hệ thống các trang thiết bị, máy móc hiện đại có độ ổn định và tin cậy cao."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-refresh",
       "name": "Bảo dưỡng thiết bị",
       "text": "20 năm kinh nghiệm trong công tác bảo dưỡng các thiết bị vô tuyến điện tử nói chung và các thiết bị trong lĩnh vực đo lường, thử nghiệm; các thiết bị công nghiệp; thiết bị mạng viễn thông nói riêng cùng hệ thống các trang thiết bị, máy móc hiện đại có độ ổn định và tin cậy cao."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-desktop",
       "name": "Phát triển phần mềm",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Thiết kế và gia công phần mềm chuyên nghiệp, tôi ưu hiệu năng bởi những kỹ sư từng làm việc tại các kỳ lân công nghệ hàng đầu Việt Nam"
     }
   ],
   "Testimonials": [
