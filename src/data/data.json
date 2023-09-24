@@ -1,10 +1,11 @@
 {
   "Header": {
     "title": "IFIX",
-    "paragraph": "Dịch vụ sửa chữa, bảo dưỡng chuyên nghiệp - nhanh chóng- uy tín - trách nhiệm - chi phí thấp"
+    "paragraph": "Sửa chữa, bảo dưỡng các thiết bị vô tuyến điện tử chuyên nghiệp, xây dựng và phát triển phần mềm.",
+    "paragraph1": "Nhanh chóng- Uy tín - Trách nhiệm - Chi phí thấp"
   },
   "About": {
-    "paragraph": "Với đội ngũ kỹ sư chuyên ngành điện tử có nhiều năm kinh nghiệm trong công tác bảo dưỡng và sửa chữa các thiết bị vô tuyến điện tử nói chung và các thiết bị trong lĩnh vực đo lường, thử nghiệm; các thiết bị công nghiệp; thiết bị mạng viễn thông nói riêng cùng hệ thống các trang thiết bị, máy móc hiện đại có độ ổn định và tin cậy cao.",
+    "paragraph": "",
     "Why": [
       "Chuyên nghiệp",
       "Nhanh chóng",
@@ -118,11 +119,6 @@
       "title": "Máy phân tích phổ FPS6",
       "largeImage": "img/fixeddevices/spectralanalysis/fps6.png",
       "smallImage": "img/fixeddevices/spectralanalysis/fps6.png"
-    },
-    {
-      "title": "Máy phân tích phổ FSH20",
-      "largeImage": "img/fixeddevices/spectralanalysis/fsh20_2.png",
-      "smallImage": "img/fixeddevices/spectralanalysis/fsh20_2.png"
     },
     {
       "title": "Máy phân tích phổ FSH20",
@@ -255,12 +251,12 @@
     {
       "icon": "fa fa-refresh",
       "name": "Bảo dưỡng thiết bị",
-      "text": "20 năm kinh nghiệm trong công tác bảo dưỡng các thiết bị vô tuyến điện tử nói chung và các thiết bị trong lĩnh vực đo lường, thử nghiệm; các thiết bị công nghiệp; thiết bị mạng viễn thông nói riêng cùng hệ thống các trang thiết bị, máy móc hiện đại có độ ổn định và tin cậy cao."
+      "text": "Chúng tôi cung cấp quy trình bảo hành không những đảm bảo thiết bị của bạn luôn hoạt động ổn định và hiệu quả, khắc phục sự cố nhanh chóng mà còn được bảo dưỡng định kỳ để giảm nguy cơ hỏng hóc."
     },
     {
       "icon": "fa fa-desktop",
       "name": "Phát triển phần mềm",
-      "text": "Thiết kế và gia công phần mềm chuyên nghiệp, tôi ưu hiệu năng bởi những kỹ sư từng làm việc tại các kỳ lân công nghệ hàng đầu Việt Nam"
+      "text": "Đội ngũ phát triển phần mềm của chúng tôi gồm các kỹ sư từng làm việc tại các kỳ lân công nghệ hàng đầu Việt Nam, có sự kết hợp giữa kiến thức về công nghệ và sự hiểu biết về nhu cầu của khách hàng, để tạo ra các giải pháp phần mềm tùy chỉnh, hiệu quả và đáng tin cậy."
     }
   ],
   "Testimonials": [

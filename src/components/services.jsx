@@ -6,7 +6,7 @@ export const Services = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Các dịch vụ</h2>
-          <p>Dịch vụ sửa chữa, bảo dưỡng các thiết bị vô tuyến điện tử chuyên nghiệp - nhanh chóng- uy tín - trách nhiệm - chi phí thấp</p>
+          <p>Dịch vụ sửa chữa, bảo dưỡng các thiết bị vô tuyến điện tử chuyên nghiệp, xây dựng và phát triển phần mềm - nhanh chóng- uy tín - trách nhiệm - chi phí thấp</p>
         </div>
         <div className="row">
           {props.data
