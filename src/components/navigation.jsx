@@ -1,17 +1,29 @@
 import React, {useEffect, useRef, useState} from "react";
+import { useTranslation } from "react-i18next";
 
 export const Navigation = (props) => {
   const vnRef = useRef(null);
   const ukRef = useRef(null);
-  const [lang, setLang] = useState('vn');
+  const { t, i18n } = useTranslation();
+
+  let lg = localStorage.getItem('lang');
+  if (lg===''||lg===null) {
+    lg = 'vi';
+  }
+
+  const [lang, setLang] = useState(lg);
   useEffect(() => {
     if (vnRef !== null && vnRef !== undefined && ukRef !== null && ukRef !== undefined) {
-      if (lang === 'vn') {
+      if (lang === 'vi') {
         vnRef.current.focus();
         ukRef.current.blur();
+        localStorage.setItem('lang', 'vi');
+        i18n.changeLanguage('vi');
       } else {
         ukRef.current.focus();
         vnRef.current.blur();
+        localStorage.setItem('lang', 'en');
+        i18n.changeLanguage('en');
       }
     }
   }, [lang])
@@ -50,17 +62,17 @@ export const Navigation = (props) => {
             {/*</li>*/}
             <li>
               <a href="#about" className="page-scroll">
-                Về Chúng tôi
+                {t('t-AboutUs')}
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Các dịch vụ
+                {t('t-Services')}
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Thiết bị đo lường
+                {t('t-Products')}
               </a>
             </li>
             {/*<li>*/}
@@ -75,18 +87,18 @@ export const Navigation = (props) => {
             {/*</li>*/}
             <li>
               <a href="#contact" className="page-scroll">
-                Liên hệ
+                {t('t-Contact')}
               </a>
             </li>
             <li>
-              <a ref={vnRef} className="page-scroll" onClick={()=>setLang('vn')}>
+              <a ref={vnRef} className="page-scroll" onClick={()=>setLang('vi')}>
                 <img src={'img/vietnam.png'} style={{
                   height: '20px',
                   verticalAlign: 'top',
                   marginRight: '7px',
                   display: 'inline'}}/>
                 VI
-                {lang === 'vn' && <div style={{
+                {lang === 'vi' && <div style={{
                   display: 'block',
                   position: 'absolute',
                   left: '0',
@@ -100,14 +112,14 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a ref={ukRef} className="page-scroll" style={{marginLeft: '-15px'}} onClick={()=>setLang('uk')}>
+              <a ref={ukRef} className="page-scroll" style={{marginLeft: '-15px'}} onClick={()=>setLang('en')}>
                 <img src={'img/uk.png'} style={{
                   marginRight: '7px',
                   height: '20px',
                   verticalAlign: 'top',
                   display: 'inline'}}/>{" "}
                 EN
-                {lang === 'uk' && <div style={{
+                {lang === 'en' && <div style={{
                   display: 'block',
                   position: 'absolute',
                   left: '0',

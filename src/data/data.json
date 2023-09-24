@@ -1,8 +1,8 @@
 {
   "Header": {
     "title": "IFIX",
-    "paragraph": "Sửa chữa, bảo dưỡng các thiết bị vô tuyến điện tử chuyên nghiệp, xây dựng và phát triển phần mềm.",
-    "paragraph1": "Nhanh chóng- Uy tín - Trách nhiệm - Chi phí thấp"
+    "paragraph": "Header.title.paragraph",
+    "paragraph1": "Header.title.paragraph1"
   },
   "About": {
     "paragraph": "",

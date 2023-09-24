@@ -1,6 +1,8 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 
 export const Header = (props) => {
+  const { t } = useTranslation();
   return (
     <header id="header">
       <div className="intro">
@@ -18,18 +20,18 @@ export const Header = (props) => {
                   // color: 'black',
                   marginTop: '50px',
                   marginBottom: '10px'
-                }}>{props.data ? props.data.paragraph : "Loading"}</p>
+                }}>{props.data ? t(props.data.paragraph) : "Loading"}</p>
                 <p style={{
                   color: '#5ca9fb',
                   // color: 'black',
                   // marginTop: '50px',
                   marginBottom: '60px'
-                }}>{props.data ? props.data.paragraph1 : "Loading"}</p>
+                }}>{props.data ? t(props.data.paragraph1) : "Loading"}</p>
                 <a
                   href="#about"
                   className="btn btn-custom btn-lg page-scroll"
                 >
-                  Tìm hiểu thêm
+                  {t("t-LearnMore")}
                 </a>{" "}
               </div>
             </div>

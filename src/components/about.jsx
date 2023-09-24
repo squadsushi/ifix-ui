@@ -1,6 +1,9 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 
 export const About = (props) => {
+  const { t } = useTranslation();
+
   return (
     <div id="about">
       <div className="container">
@@ -11,14 +14,11 @@ export const About = (props) => {
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
-              <h2>Về chúng tôi</h2>
+              <h2>{t("t-AboutUs")}</h2>
               {/*<p>{props.data ? props.data.paragraph : "loading..."}</p>*/}
-              <p>
-                Chào mừng bạn đến với iFix, chúng tôi là một công ty chuyên cung cấp các dịch vụ đa dạng trong lĩnh vực
-                điện tử viễn thông và công nghệ thông tin.
-              </p>
+              <p>{t("t-WelcomeMsg")}</p>
               <h4>
-                Dịch vụ Bảo dưỡng và Sửa chữa Thiết bị Vô tuyến Điện tử:
+                {t("t-TeleService")}:
               </h4>
               <p style={{marginTop: '0px'}}>
                 Với đội ngũ kỹ sư chuyên ngành điện tử có nhiều năm kinh nghiệm trong công tác bảo dưỡng và sửa chữa
