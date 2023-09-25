@@ -1,12 +1,16 @@
 import React from "react";
+import { useTranslation } from "react-i18next";
 
 export const Services = (props) => {
+  const { t } = useTranslation();
   return (
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Các dịch vụ</h2>
-          <p>Dịch vụ sửa chữa, bảo dưỡng các thiết bị vô tuyến điện tử chuyên nghiệp, xây dựng và phát triển phần mềm - nhanh chóng- uy tín - trách nhiệm - chi phí thấp</p>
+          <h2>{t("t-OurServices")}</h2>
+          <p>{t("Header.title.paragraph")}</p>
+          <br/>
+          <p>{t("Header.title.paragraph1")}</p>
         </div>
         <div className="row">
           {props.data
@@ -15,8 +19,8 @@ export const Services = (props) => {
                   {" "}
                   <i className={d.icon}></i>
                   <div className="service-desc">
-                    <h3>{d.name}</h3>
-                    <p>{d.text}</p>
+                    <h3>{t(d.name)}</h3>
+                    <p>{t(d.text)}</p>
                   </div>
                 </div>
               ))

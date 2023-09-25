@@ -7,13 +7,13 @@
   "About": {
     "paragraph": "",
     "Why": [
-      "Chuyên nghiệp",
-      "Nhanh chóng",
-      "Uy tín"
+      "About.Why.01",
+      "About.Why.02",
+      "About.Why.03"
     ],
     "Why2": [
-      "Trách nhiệm",
-      "Chi phí thấp"
+      "About.Why2.01",
+      "About.Why2.02"
     ]
   },
   "Gallery": [
@@ -245,18 +245,18 @@
   "Services": [
     {
       "icon": "fa fa-cog",
-      "name": "Sửa chữa thiết bị",
-      "text": "20 năm kinh nghiệm trong công tác sửa chữa các thiết bị vô tuyến điện tử nói chung và các thiết bị trong lĩnh vực đo lường, thử nghiệm; các thiết bị công nghiệp; thiết bị mạng viễn thông nói riêng cùng hệ thống các trang thiết bị, máy móc hiện đại có độ ổn định và tin cậy cao."
+      "name": "t-RepairAndMaintainance",
+      "text": "t-RepairAndMaintainanceDesc"
     },
     {
       "icon": "fa fa-refresh",
-      "name": "Bảo dưỡng thiết bị",
-      "text": "Chúng tôi cung cấp quy trình bảo hành không những đảm bảo thiết bị của bạn luôn hoạt động ổn định và hiệu quả, khắc phục sự cố nhanh chóng mà còn được bảo dưỡng định kỳ để giảm nguy cơ hỏng hóc."
+      "name": "t-TradingDevice",
+      "text": "t-TradingDeviceDesc"
     },
     {
       "icon": "fa fa-desktop",
-      "name": "Phát triển phần mềm",
-      "text": "Đội ngũ phát triển phần mềm của chúng tôi gồm các kỹ sư từng làm việc tại các kỳ lân công nghệ hàng đầu Việt Nam, có sự kết hợp giữa kiến thức về công nghệ và sự hiểu biết về nhu cầu của khách hàng, để tạo ra các giải pháp phần mềm tùy chỉnh, hiệu quả và đáng tin cậy."
+      "name": "t-SoftwareDevelopment",
+      "text": "t-SoftwareDevelopmentDesc"
     }
   ],
   "Testimonials": [
@@ -314,7 +314,7 @@
     }
   ],
   "Contact": {
-    "address": "Phòng 201, số nhà 25, ngõ 120, đường Trần Duy Hưng, quận Cầu giấy, thành phố Hà Nội",
+    "address": "Contact.address",
     "phone": "+84 901 505 637",
     "email": "ifix.limited.company@gmail.com",
     "facebook": "fb.com",

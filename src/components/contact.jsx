@@ -1,6 +1,7 @@
 import { useState } from "react";
 import emailjs from "emailjs-com";
 import React from "react";
+import { useTranslation } from "react-i18next";
 
 const initialState = {
   name: "",
@@ -9,6 +10,7 @@ const initialState = {
 };
 export const Contact = (props) => {
   const [{ name, email, message }, setState] = useState(initialState);
+  const { t } = useTranslation();
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -38,10 +40,8 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>Liên hệ với chúng tôi</h2>
-                <p>
-                  Hãy điền thông tin vào đơn sau và chúng tôi sẽ trả lời bạn sớm nhất có thể.
-                </p>
+                <h2>{t("t-ContactWithUs")}</h2>
+                <p>{t("t-FillForm")}</p>
               </div>
               <form name="sentMessage" validate onSubmit={handleSubmit}>
                 <div className="row">
@@ -52,7 +52,7 @@ export const Contact = (props) => {
                         id="name"
                         name="name"
                         className="form-control"
-                        placeholder="Họ và tên"
+                        placeholder={t("t-FullName")}
                         required
                         onChange={handleChange}
                       />
@@ -80,7 +80,7 @@ export const Contact = (props) => {
                     id="message"
                     className="form-control"
                     rows="4"
-                    placeholder="Lời nhắn"
+                    placeholder={t("t-Message")}
                     required
                     onChange={handleChange}
                   ></textarea>
@@ -88,25 +88,24 @@ export const Contact = (props) => {
                 </div>
                 <div id="success"></div>
                 <button type="submit" className="btn btn-custom btn-lg">
-                  Gửi
+                  {t("t-Send")}
                 </button>
               </form>
             </div>
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
             <div className="contact-item">
-              <h3>Thông tin liên hệ</h3>
+              <h3>{t("t-ContactInfo")}</h3>
               <p>
                 <span>
-                  <i className="fa fa-map-marker"></i> Địa chỉ
-                </span>
-                {props.data ? props.data.address : "loading"}
+                  <i className="fa fa-map-marker"></i> {t("t-Address")}</span>
+                {props.data ? t(props.data.address) : "loading"}
               </p>
             </div>
             <div className="contact-item">
               <p>
                 <span>
-                  <i className="fa fa-phone"></i> Số điện thoại
+                  <i className="fa fa-phone"></i> {t("t-PhoneNumber")}
                 </span>{" "}
                 {props.data ? props.data.phone : "loading"}
               </p>
@@ -148,7 +147,7 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Công ty TNHH Thương mại và dịch vụ kỹ thuật IFIX
+            &copy; {t("t-CopyRight")}
           </p>
         </div>
       </div>

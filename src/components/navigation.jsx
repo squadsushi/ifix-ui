@@ -75,6 +75,16 @@ export const Navigation = (props) => {
                 {t('t-Products')}
               </a>
             </li>
+            <li>
+              <a href="#soft-dev" className="page-scroll">
+                {t('t-Software')}
+              </a>
+            </li>
+            <li>
+              <a href="#trading-about" className="page-scroll">
+                {t('t-TradingDevice')}
+              </a>
+            </li>
             {/*<li>*/}
             {/*  <a href="#testimonials" className="page-scroll">*/}
             {/*    Testimonials*/}

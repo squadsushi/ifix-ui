@@ -21,33 +21,25 @@ export const About = (props) => {
                 {t("t-TeleService")}:
               </h4>
               <p style={{marginTop: '0px'}}>
-                Với đội ngũ kỹ sư chuyên ngành điện tử có nhiều năm kinh nghiệm trong công tác bảo dưỡng và sửa chữa
-                các thiết bị vô tuyến điện tử nói chung và các thiết bị trong lĩnh vực đo lường, thử nghiệm; các thiết
-                bị công nghiệp; thiết bị mạng viễn thông nói riêng, chúng tôi tự hào cung cấp dịch vụ bảo dưỡng và sửa
-                chữa thiết bị vô tuyến điện tử.
+                {t("t-TeleServiceIntro01")}
                 <br/>
-                Đi cùng với đó là quy trình bảo hành không những đảm bảo thiết bị của
-                bạn luôn hoạt động ổn định và hiệu quả, khắc phục sự cố nhanh chóng mà còn được bảo dưỡng định kỳ để
-                giảm nguy cơ hỏng hóc.
+                {t("t-TeleServiceIntro02")}
               </p>
               <h4>
-                Dịch vụ Phát triển Phần mềm:
+                {t("t-SoftwareService")}:
               </h4>
               <p style={{marginTop: '0px'}}>
-                Ở iFix, chúng tôi hiểu rằng phần mềm là trái tim của hệ thống công nghệ thông tin. Chúng tôi chuyên
-                phát triển các ứng dụng phần mềm đa dạng, từ ứng dụng di động đến phần mềm doanh nghiệp phức tạp.
+                {t("t-SoftwareServiceIntro01")}
                 <br/>
-                Đội ngũ phát triển phần mềm của chúng tôi gồm các kỹ sư từng làm việc tại các kỳ lân công nghệ hàng đầu
-                Việt Nam, có sự kết hợp giữa kiến thức về công nghệ và sự hiểu biết về nhu cầu của khách hàng, để tạo
-                ra các giải pháp phần mềm tùy chỉnh, hiệu quả và đáng tin cậy.
+                {t("t-SoftwareServiceIntro02")}
               </p>
-              <h3>Các tiêu chí hàng đầu của iFix</h3>
+              <h3>{t("t-OurCoreValues")}:</h3>
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xs-12">
                   <ul>
                     {props.data
                       ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
+                          <li key={`${d}-${i}`}>{t(d)}</li>
                         ))
                       : "loading"}
                   </ul>
@@ -56,7 +48,7 @@ export const About = (props) => {
                   <ul>
                     {props.data
                       ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
+                          <li key={`${d}-${i}`}> {t(d)}</li>
                         ))
                       : "loading"}
                   </ul>
