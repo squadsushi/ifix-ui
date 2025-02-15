@@ -38,10 +38,8 @@ const App = () => {
       <Gallery data={landingPageData.PowerBank} name={t("t-DCPowerSupplies")} />
       <Gallery data={landingPageData.LCR} name={t("t-LCRMeters")} />
       <Gallery data={landingPageData.NetworkAnalysis} name={t("t-NetworkAnalyzers")} />
-      <Gallery data={landingPageData.SpectralAnalysis} name={t("t-SpectrumAnalyzers")} />
       <Gallery data={landingPageData.SignalGenerator} name={t("t-SignalGenerators")} />
       <Gallery data={landingPageData.VectorSignalGenerator} name={t("t-VectorTransceivers")} />
-      <Gallery data={landingPageData.PowerSensor} name={t("t-PowerSensors")} />
       <SoftwareDevelopmentAbout />
       <TradingAbout />
       {/*<Testimonials data={landingPageData.Testimonials} />*/}

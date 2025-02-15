@@ -58,7 +58,7 @@ i18n
           "t-PhoneNumber": "Phone",
           "t-CopyRight": "2023 IFIX Technical Service and Trading Limited Company",
           "t-Address": "Address",
-          "Contact.address": "Room 201, No. 25, Alley 120, Tran Duy Hung Street, Cau Giay District, Hanoi City",
+          "Contact.address": "Level 8, AC Tower, No. 3, Alley 78, Duy Tan Street, Dich Vong Hau Ward, Cau Giay District, Hanoi, Vietnam",
         }
       },
       vi: {
@@ -109,7 +109,7 @@ i18n
           "t-Address": "Đia chỉ",
           "t-PhoneNumber": "Số điện thoại",
           "t-CopyRight": "2023 Công ty TNHH Thương mại và dịch vụ kỹ thuật IFIX",
-          "Contact.address": "Phòng 201, số nhà 25, ngõ 120, đường Trần Duy Hưng, quận Cầu giấy, thành phố Hà Nội",
+          "Contact.address": "Tầng 8, Tòa nhà AC, Số 3, Ngõ 78, Phố Duy Tân, Phường Dịch Vọng Hậu, Quận Cầu Giấy, TP. Hà nội, Việt Nam",
         }
       }
     },

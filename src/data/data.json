@@ -18,228 +18,95 @@
   },
   "Gallery": [
     {
-      "title": "Máy phát tín hiệu",
-      "largeImage": "img/devicetypes/may_phat_tin_hieu.jpg",
-      "smallImage": "img/devicetypes/may_phat_tin_hieu.jpg"
+      "title": "E5071C",
+      "largeImage": "img/devicetypes/e5071c.jpg",
+      "smallImage": "img/devicetypes/e5071c.jpg"
     },
     {
-      "title": "Máy thu",
-      "largeImage": "img/devicetypes/may_thu.jpg",
-      "smallImage": "img/devicetypes/may_thu.jpg"
+      "title": "E5071B",
+      "largeImage": "img/devicetypes/e5071b_0.jpg",
+      "smallImage": "img/devicetypes/e5071b_0.jpg"
+    },
+
+    {
+      "title": "N9000",
+      "largeImage": "img/devicetypes/n9000.jpg",
+      "smallImage": "img/devicetypes/n9000.jpg"
     },
     {
-      "title": "Osilocope",
-      "largeImage": "img/devicetypes/osilocope.jpg",
-      "smallImage": "img/devicetypes/osilocope.jpg"
+      "title": "N9010A",
+      "largeImage": "img/devicetypes/n9010a_1.jpg",
+      "smallImage": "img/devicetypes/n9010a_1.jpg"
     },
     {
-      "title": "Máy phân tích mạng",
-      "largeImage": "img/devicetypes/phan_tich_mang.jpg",
-      "smallImage": "img/devicetypes/phan_tich_mang.jpg"
+      "title": "E5071B",
+      "largeImage": "img/devicetypes/e5071b_1.jpg",
+      "smallImage": "img/devicetypes/e5071b_1.jpg"
     },
     {
-      "title": "Máy phân tích phổ",
-      "largeImage": "img/devicetypes/phan_tich_pho.jpg",
-      "smallImage": "img/devicetypes/phan_tich_pho.jpg"
+      "title": "N9010A",
+      "largeImage": "img/devicetypes/n9010a_2.jpg",
+      "smallImage": "img/devicetypes/n9010a_2.jpg"
     },
     {
-      "title": "Máy phân tích phổ cầm tay",
-      "largeImage": "img/devicetypes/phan_tich_pho_cam_tay.jpg",
-      "smallImage": "img/devicetypes/phan_tich_pho_cam_tay.jpg"
+      "title": "N9010A",
+      "largeImage": "img/devicetypes/n9010a_3.jpg",
+      "smallImage": "img/devicetypes/n9010a_3.jpg"
     }
   ],
   "PowerBank": [
     {
-      "title": "Bộ nguồn E3634A",
-      "largeImage": "img/fixeddevices/powerbank/01_nguon_e3634a.png",
-      "smallImage": "img/fixeddevices/powerbank/01_nguon_e3634a.png"
-    },
-    {
       "title": "Bộ nguồn công suất cao",
-      "largeImage": "img/fixeddevices/powerbank/02_nguon_cong_suat_cao.png",
-      "smallImage": "img/fixeddevices/powerbank/02_nguon_cong_suat_cao.png"
-    },
-    {
-      "title": "Bộ nguồn máy M9037A",
-      "largeImage": "img/fixeddevices/powerbank/03_nguon_may_m9037a.JPG",
-      "smallImage": "img/fixeddevices/powerbank/03_nguon_may_m9037a.JPG"
-    },
-    {
-      "title": "Bộ nguồn máy phát N5181A",
-      "largeImage": "img/fixeddevices/powerbank/04_nguon_may_phat_n5181a.png",
-      "smallImage": "img/fixeddevices/powerbank/04_nguon_may_phat_n5181a.png"
+      "largeImage": "img/fixeddevices/powerbank/power.png",
+      "smallImage": "img/fixeddevices/powerbank/power.png"
     }
   ],
   "LCR": [
     {
-      "title": "Đồng hồ đo E4980A",
-      "largeImage": "img/fixeddevices/lcr/03_e4980a.png",
-      "smallImage": "img/fixeddevices/lcr/03_e4980a.png"
-    },
-    {
-      "title": "Đồng hồ đo 34461A",
-      "largeImage": "img/fixeddevices/lcr/02_34461A.png",
-      "smallImage": "img/fixeddevices/lcr/02_34461A.png"
-    },
-    {
-      "title": "Đồng hồ đo 2410",
-      "largeImage": "img/fixeddevices/lcr/01_2410.png",
-      "smallImage": "img/fixeddevices/lcr/01_2410.png"
-    },
-    {
-      "title": "Đồng hồ đo IM3570",
-      "largeImage": "img/fixeddevices/lcr/04_im3570.JPG",
-      "smallImage": "img/fixeddevices/lcr/04_im3570.JPG"
+      "title": "34461A",
+      "largeImage": "img/fixeddevices/lcr/34461.png",
+      "smallImage": "img/fixeddevices/lcr/34461.png"
     }
   ],
   "NetworkAnalysis": [
     {
-      "title": "Máy phân tích mạng E5071C",
-      "largeImage": "img/fixeddevices/networkanalysis/01.JPG",
-      "smallImage": "img/fixeddevices/networkanalysis/01.JPG"
+      "title": "E5071C",
+      "largeImage": "img/fixeddevices/networkanalysis/E5071C2.png",
+      "smallImage": "img/fixeddevices/networkanalysis/E5071C2.png"
     },
     {
-      "title": "Máy phân tích mạng E5071C",
-      "largeImage": "img/fixeddevices/networkanalysis/02.png",
-      "smallImage": "img/fixeddevices/networkanalysis/02.png"
-    },
-    {
-      "title": "Máy phân tích mạng E5071C",
-      "largeImage": "img/fixeddevices/networkanalysis/03.png",
-      "smallImage": "img/fixeddevices/networkanalysis/03.png"
-    }
-  ],
-  "SpectralAnalysis": [
-    {
-      "title": "Máy phân tích phổ E4404B",
-      "largeImage": "img/fixeddevices/spectralanalysis/e4404b.JPG",
-      "smallImage": "img/fixeddevices/spectralanalysis/e4404b.JPG"
-    },
-    {
-      "title": "Máy phân tích phổ FPS6",
-      "largeImage": "img/fixeddevices/spectralanalysis/fps6.png",
-      "smallImage": "img/fixeddevices/spectralanalysis/fps6.png"
-    },
-    {
-      "title": "Máy phân tích phổ FSH20",
-      "largeImage": "img/fixeddevices/spectralanalysis/fsh20_1.jpg",
-      "smallImage": "img/fixeddevices/spectralanalysis/fsh20_1.jpg"
-    },
-    {
-      "title": "Máy phân tích phổ N9320B",
-      "largeImage": "img/fixeddevices/spectralanalysis/N9320B_1.png",
-      "smallImage": "img/fixeddevices/spectralanalysis/N9320B_1.png"
-    },
-    {
-      "title": "Máy phân tích phổ N9320B",
-      "largeImage": "img/fixeddevices/spectralanalysis/N9320B_2.png",
-      "smallImage": "img/fixeddevices/spectralanalysis/N9320B_2.png"
-    },
-    {
-      "title": "Máy phân tích phổ N9320B",
-      "largeImage": "img/fixeddevices/spectralanalysis/N9320B_3.JPG",
-      "smallImage": "img/fixeddevices/spectralanalysis/N9320B_3.JPG"
-    },
-    {
-      "title": "Máy phân tích phổ N9320B",
-      "largeImage": "img/fixeddevices/spectralanalysis/N9320B_4.JPG",
-      "smallImage": "img/fixeddevices/spectralanalysis/N9320B_4.JPG"
+      "title": "E5071C",
+      "largeImage": "img/fixeddevices/networkanalysis/E5071C.png",
+      "smallImage": "img/fixeddevices/networkanalysis/E5071C.png"
     }
   ],
   "SignalGenerator": [
     {
-      "title": "Máy phát tín hiệu 33210A",
-      "largeImage": "img/fixeddevices/signalgenerator/33210A.png",
-      "smallImage": "img/fixeddevices/signalgenerator/33210A.png"
+      "title": "SMB100A",
+      "largeImage": "img/fixeddevices/signalgenerator/SMB100A.png",
+      "smallImage": "img/fixeddevices/signalgenerator/SMB100A.png"
     },
     {
-      "title": "Máy phát tín hiệu N5173B",
-      "largeImage": "img/fixeddevices/signalgenerator/N5173B_1.JPG",
-      "smallImage": "img/fixeddevices/signalgenerator/N5173B_1.JPG"
+      "title": "N5173",
+      "largeImage": "img/fixeddevices/signalgenerator/N5173.png",
+      "smallImage": "img/fixeddevices/signalgenerator/N5173.png"
     },
     {
-      "title": "Máy phát tín hiệu N5173B",
-      "largeImage": "img/fixeddevices/signalgenerator/N5173B_2.JPG",
-      "smallImage": "img/fixeddevices/signalgenerator/N5173B_2.JPG"
+      "title": "N5181A",
+      "largeImage": "img/fixeddevices/signalgenerator/N5181A.png",
+      "smallImage": "img/fixeddevices/signalgenerator/N5181A.png"
     },
     {
-      "title": "Máy phát tín hiệu N5181A",
-      "largeImage": "img/fixeddevices/signalgenerator/N5181A_1.png",
-      "smallImage": "img/fixeddevices/signalgenerator/N5181A_1.png"
-    },
-    {
-      "title": "Máy phát tín hiệu N5181A",
-      "largeImage": "img/fixeddevices/signalgenerator/N5181A_2.JPG",
-      "smallImage": "img/fixeddevices/signalgenerator/N5181A_2.JPG"
-    },
-    {
-      "title": "Máy phát tín hiệu N5181A",
-      "largeImage": "img/fixeddevices/signalgenerator/N5181A_3.JPG",
-      "smallImage": "img/fixeddevices/signalgenerator/N5181A_3.JPG"
-    },
-    {
-      "title": "Máy phát tín hiệu N5181B",
-      "largeImage": "img/fixeddevices/signalgenerator/N5181B_1.png",
-      "smallImage": "img/fixeddevices/signalgenerator/N5181B_1.png"
-    },
-    {
-      "title": "Máy phát tín hiệu N5181B",
-      "largeImage": "img/fixeddevices/signalgenerator/N5181B_2.jpg",
-      "smallImage": "img/fixeddevices/signalgenerator/N5181B_2.jpg"
-    },
-    {
-      "title": "Máy phát tín hiệu SGT100A",
-      "largeImage": "img/fixeddevices/signalgenerator/SGT100A.jpg",
-      "smallImage": "img/fixeddevices/signalgenerator/SGT100A.jpg"
-    },
-    {
-      "title": "Máy phát tín hiệu SMB100A",
-      "largeImage": "img/fixeddevices/signalgenerator/SMB100A_1.JPG",
-      "smallImage": "img/fixeddevices/signalgenerator/SMB100A_1.JPG"
-    },
-    {
-      "title": "Máy phát tín hiệu SMB100A",
-      "largeImage": "img/fixeddevices/signalgenerator/SMB100A_2.JPG",
-      "smallImage": "img/fixeddevices/signalgenerator/SMB100A_2.JPG"
-    },
-    {
-      "title": "Máy phát tín hiệu SMB100A",
-      "largeImage": "img/fixeddevices/signalgenerator/SMB100A_3.JPG",
-      "smallImage": "img/fixeddevices/signalgenerator/SMB100A_3.JPG"
-    },
-    {
-      "title": "Máy phát tín hiệu SMB100A",
-      "largeImage": "img/fixeddevices/signalgenerator/SMB100A_4.JPG",
-      "smallImage": "img/fixeddevices/signalgenerator/SMB100A_4.JPG"
+      "title": "N5181B",
+      "largeImage": "img/fixeddevices/signalgenerator/N5181B.png",
+      "smallImage": "img/fixeddevices/signalgenerator/N5181B.png"
     }
   ],
   "VectorSignalGenerator": [
     {
       "title": "VXT PXI Vector transceiver MS9000A",
-      "largeImage": "img/fixeddevices/vectorsignalgeneraltor/1.jpg",
-      "smallImage": "img/fixeddevices/vectorsignalgeneraltor/1.jpg"
-    },
-    {
-      "title": "VXT PXI Vector transceiver MS9000A",
-      "largeImage": "img/fixeddevices/vectorsignalgeneraltor/2.jpg",
-      "smallImage": "img/fixeddevices/vectorsignalgeneraltor/2.jpg"
-    },
-    {
-      "title": "VXT PXI Vector transceiver MS9000A",
-      "largeImage": "img/fixeddevices/vectorsignalgeneraltor/3.png",
-      "smallImage": "img/fixeddevices/vectorsignalgeneraltor/3.png"
-    }
-  ],
-  "PowerSensor": [
-    {
-      "title": "Power sensor",
-      "largeImage": "img/fixeddevices/powersensor/PowerSensor2.JPG",
-      "smallImage": "img/fixeddevices/powersensor/PowerSensor2.JPG"
-    },
-    {
-      "title": "Power sensor",
-      "largeImage": "img/fixeddevices/powersensor/PowerSensor1.JPG",
-      "smallImage": "img/fixeddevices/powersensor/PowerSensor1.JPG"
+      "largeImage": "img/fixeddevices/vectorsignalgeneraltor/vector.png",
+      "smallImage": "img/fixeddevices/vectorsignalgeneraltor/vector.png"
     }
   ],
   "Services": [
@@ -315,7 +182,7 @@
   ],
   "Contact": {
     "address": "Contact.address",
-    "phone": "+84 901 505 637",
+    "phone": "+84 917 648 608",
     "email": "ifix.limited.company@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
